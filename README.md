@@ -30,7 +30,7 @@ A pesquisa pode ser feita localmente, na lista recebida por essa api.
 Note que a PokéAPI possui paginação, caso queira se utilizar dela (Opcional)
 
 #### Imagem do pokemon
-Para mostrar mostrar a imagem de um pokemon, utilize a URL abaixo:
+Para mostrar a imagem de um pokemon, utilize a URL abaixo:
 
 ```
 `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/${id}.svg`
@@ -55,9 +55,10 @@ Na tela de detalhes de um pokemon, utilize o seguinte endpoint para obter os det
 Sendo **id** o id do pokemon.
 
 ## Diferenciais:
-- Aquetura limpa e bem definida
+- Arquitetura limpa e bem definida
 - Listagem otimizada
 - Boa separação de componentes e funções
+- Gitflow limpo, commits bem criados e concisos
 - Desenvolva seus próprios componentes e mostre do que você é capaz, queremos ver sua lógica de programação e sua capacidade de resolver problemas.
 
 ## Dúvidas
